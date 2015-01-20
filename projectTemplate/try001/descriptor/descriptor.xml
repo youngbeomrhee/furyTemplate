@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<descriptors>
+<descriptor
+		id="com.framewise.template.project001"
+		name="framewise template 001"
+		kind="template"
+		version="1.0.0.RELEASE"
+		local="false"
+		requires="[3.0.0,4.0)"
+		requiresbundle="org.eclipse.m2e.core"
+		size="9500"
+		category="Fury Template Project"
+		url="https://raw.githubusercontent.com/seektruthyb/furyTemplate/master/projectTemplate/try001/templateProjectSample.zip">
+		<description>test!!!</description>
+	</descriptor>
+
+</descriptors>
